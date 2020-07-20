@@ -2,6 +2,8 @@
 <span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->simon.txt<br/><br/>
 A good quote, "<span id="k">There is more than one path to the top of the mountain</span>". <!-- sjkfhskjf -->
 
+My go to motto, "<span id="k">Allt löser sig</span>". <!-- sjkfhskjf -->
+
 Hey There! My name is Simon Rydberg.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a aspiring hackerman.</p>
 <p>I can introduce Myself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
 <p> What I have worked on and what skills I have, link to  professional portfolio here<a href="https://www.youtube.com/watch?v=FTQbiNvZqaY" target="_blank"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
