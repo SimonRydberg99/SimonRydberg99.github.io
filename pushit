@@ -10,3 +10,5 @@ read comment
 git add --all
 git commit -m "$comment"
 git push
+echo "$name"
+echo "$pass"
