@@ -1,0 +1,11 @@
+#!/bin/bash
+
+name="SimonRydberg99"
+pass="Samsung2323!"
+
+echo 'what do you comment?'
+
+read comment
+
+git add --all
+git commit -m "$comment"
