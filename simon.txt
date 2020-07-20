@@ -1,10 +1,10 @@
-<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cd Simon/<!-- laglaglaglaglaglag -->About_SimonRydberg
+<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cd Simon/<!-- laglaglaglaglaglag -->About_Simon
 <span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->simon.txt<br/><br/>
 A good quote, "<span id="k">There is more than one path to the top of the mountain</span>". <!-- sjkfhskjf -->
 
 Hey There! My name is Simon Rydberg.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a aspiring hackerman.</p>
 <p>I can introduce Myself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> What I have worked on and what skills I have, link to  professional portfolio here<a href="https://www.youtube.com/watch?v=V0jCDsawVvo" target="_blank"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> What I have worked on and what skills I have, link to  professional portfolio here<a href="https://www.youtube.com/watch?v=FTQbiNvZqaY" target="_blank"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>Something more about myself <br><br><br>Links for projects if I had any. <a href="http://www.quickmeme.com/img/f1/f187f4fc505faf716090a22faa026318ba65673169f56023a19d603d2bf7fc83.jpg" target="_blank"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> Links for other online profiles, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
@@ -12,4 +12,4 @@ My email if anyone would want to contact me for any reason<!-- slightdelayhere--
 
 <p>Good Day!</p>
 
-<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> exit 
