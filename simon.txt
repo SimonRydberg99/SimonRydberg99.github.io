@@ -1,13 +1,13 @@
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
-<span id="a">your-first-name@your-last-name</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
-My favorite code quote, "<span id="k">Quote you like</span>". <!-- sjkfhskjf -->
+<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cd Simon/<!-- laglaglaglaglaglag -->About_Me
+<span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->simon.txt<br/><br/>
+My favorite code quote, "<span id="k">There is more than one path to the top of the mountain</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> You can also tell what you've worked and known and what skills you have, you can also give link to your professional portfolio here<a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Tell more about yourself. <br><br><br>Give your project links or something like that. <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
-<p> You can give links to other professional profiles you have on Internet, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
+<p>I can introduce Myself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> What I have worked on and what skills I have, link to  professional portfolio here<a href="https://www.youtube.com/watch?v=V0jCDsawVvo"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>Something more about myself <br><br><br>Links for projects if I had any. <a href="http://www.quickmeme.com/img/f1/f187f4fc505faf716090a22faa026318ba65673169f56023a19d603d2bf7fc83.jpg"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> Links for other online profiles, here: <br> <a href="link1">Profile1</a> <br> <a href="link2">Profile2</a> and <br> <a href="link3">Profile3</a>.</p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="Your email ID">Email</a>.
+My email if anyone would want to contact me for any reason<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="simonrydberg99@gmail.com">Email</a>.
 
-<p>Cheers!</p>
+<p>Good Day!</p>
