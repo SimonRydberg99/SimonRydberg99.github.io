@@ -1,6 +1,6 @@
 <span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cd Simon/<!-- laglaglaglaglaglag -->About_Me
 <span id="a">Simon@Rydberg</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->simon.txt<br/><br/>
-My favorite code quote, "<span id="k">There is more than one path to the top of the mountain</span>". <!-- sjkfhskjf -->
+A good quote, "<span id="k">There is more than one path to the top of the mountain</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
 <p>I can introduce Myself here.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
