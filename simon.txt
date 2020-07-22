@@ -3,10 +3,10 @@
 
 My go to motto, "<span id="k">Allt löser sig</span>". <!-- sjkfhskjf -->
 
-Hey There! My name is Simon Rydberg.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently trying to pursue a career in software development <!-- laglaglaglaglaglaglaglaglaglaglaglag -->but who knows how that will actually go</p>
-<p>Some of my greatest interests in life are coding, gaming, and probably some other stuff, I have a real nack for logical problem solving and think its really fun.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I have worked on several personal projects but nothing completed :( I've worked with unity so I have some experience with C#, I have also played around with html, javascript and css. If I had a professional portfolio I would link it here:<a href="https://www.youtube.com/watch?v=FTQbiNvZqaY" target="_blank"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p>Something more about myself <br><br><br>Link for projects <a href="http://www.quickmeme.com/img/f1/f187f4fc505faf716090a22faa026318ba65673169f56023a19d603d2bf7fc83.jpg" target="_blank">if I had any</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+Hey There! My name is Simon Rydberg.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am currently trying to pursue a career in software development <!-- laglaglaglaglaglaglaglaglaglaglaglag -->but who knows how that will go...</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p>Some of my greatest interests in life are coding, gaming, and probably some other stuff, I enjoy logical problem solving and have a real knack for it.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> I have worked on several personal uncompleted projects in unity so I have some experience with C#, I have also played around with html, javascript and css. If I had a professional portfolio I would link it here:<a href="https://www.youtube.com/watch?v=FTQbiNvZqaY" target="_blank"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>Something more about myself <!-- bitlagbitlagbitlagbitlagbitlagbitlag --><br><br><br>Link for projects <a href="http://www.quickmeme.com/img/f1/f187f4fc505faf716090a22faa026318ba65673169f56023a19d603d2bf7fc83.jpg" target="_blank">if I had any</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> Links for other online profiles, here: <br> <a href="https://www.linkedin.com/in/simon-rydberg-b213bb1b3/" target="_blank">Linkedin</a> <br> <a href="https://twitter.com/RydbergSimon1" target="_blank">Twitter</a></p>
 
 If anyone would want to contact me for any reason<!-- slightdelayhere-->, feel free to send me an email at:<!-- longlonglongcomment --><a href="mailto:simonrydberg99@gmail.com"> simonrydberg99@gmail.com</a>.
